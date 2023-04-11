@@ -11,4 +11,4 @@ I also implemented a Table class with functions to test use cases relevant to a 
 Note only the "solution.py" file is my own work, and work within it that is not mine is specified. 
 To be specific though:
 Within the AVL_Tree class right_rotate, balance_factor, rebalance, insert, min, max, search, inorder, __iter__, preorder, postorder, and levelorder is my own work.
-Within the Table class all functions except for the one dunder method (__init__) is my own work. 
+Within the Table class all functions except for the one dunder method (__init__) are my own work. 
